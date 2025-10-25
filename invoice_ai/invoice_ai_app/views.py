@@ -262,8 +262,8 @@ from django.conf import settings
 # ================================
 # Configuration
 # ================================
+openai.api_key = "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"
 
-# openai.api_key = "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"
   # <-- Replace with your key
 
 MEDIA_DIR = os.path.join(settings.BASE_DIR, "media")
