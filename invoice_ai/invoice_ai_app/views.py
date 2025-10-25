@@ -17,7 +17,7 @@
 # # Configuration
 # # ================================
 
-# openai.api_key = "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"
+openai.api_key = "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"
 #   # <-- Replace with your key
 
 # MEDIA_DIR = os.path.join(settings.BASE_DIR, "media")
