@@ -262,7 +262,7 @@ from django.conf import settings
 # ================================
 # Configuration
 # ================================
-openai.api_key = "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"
+openai.api_key = "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"
 
   # <-- Replace with your key
 
