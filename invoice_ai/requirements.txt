@@ -1,0 +1,19 @@
+# Web framework
+Django>=4.2,<5.0
+djangorestframework>=3.14,<4.0
+
+# OpenAI API
+openai>=1.0.0
+
+# PDF and image processing
+pdf2image>=1.16.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+
+# Data handling
+pandas>=2.1.0
+
+# Optional dependencies for PDF to image conversion
+poppler-utils>=0.90.0  # Make sure poppler is installed in your system
+
+# File handling / zip
